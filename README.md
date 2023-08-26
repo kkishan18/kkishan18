@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkishan18&label=Profile%20views&color=0e75b6&style=flat" alt="kkishan18" /> </p>
 
-- 📫 How to reach me **kishan889900@gmail.com**
+-  📫 How to reach me **kishan889900@gmail.com**
 -  📫 MyPortFolio **https://kkumarportfolio.netlify.app/**
--  -  📫 Resume **https://drive.google.com/file/d/1HynSX1KFGPezCRAMxycZ90tRD-EFQ7w5/view?usp=sharing**
+-  📫 Resume **https://drive.google.com/file/d/1HynSX1KFGPezCRAMxycZ90tRD-EFQ7w5/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
